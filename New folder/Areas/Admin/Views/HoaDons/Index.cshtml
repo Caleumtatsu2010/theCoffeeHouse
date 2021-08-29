@@ -1,0 +1,84 @@
+﻿@model IEnumerable<theCoffeeHouse.Models.HoaDon>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+<style>
+    table{
+        text-align:center
+    }
+</style>
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            STT
+        </th>
+        <th>
+            Mã Đơn Hàng
+        </th>
+        <th>
+            Mã Khách Hàng
+        </th>
+
+        <th>
+            Thời Gian
+        </th>
+        <th>
+            Tổng Số Lượng
+        </th>
+        <th>
+            Giảm Giá
+        </th>
+        <th>
+            Thành Tiền
+        </th>
+        <th>
+            Thanh Toán
+        </th>
+        <th>Chức Năng</th>
+    </tr>
+
+    @{
+        var c = 0;
+        foreach (var item in Model)
+        {
+            c++;
+    <tr>
+        <td>
+            @c
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.maHoaDon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.maKhachHang)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ngayBan)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tongSoLuong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.giamGia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.thanhTien)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hinhThucThanhToan)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.maHoaDon }) |
+            @Html.ActionLink("Details", "Details", new { id = item.maHoaDon }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.maHoaDon })
+        </td>
+    </tr>
+        }
+
+    }
+
+</table>

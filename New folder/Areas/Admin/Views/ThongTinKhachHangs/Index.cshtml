@@ -1,0 +1,75 @@
+﻿@model IEnumerable<theCoffeeHouse.Models.ThongTinKhachHang>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Khách Hàng</h2>
+
+<style>
+    table {
+        text-align:center;
+
+    }
+    table a {
+        font-size: 20px;
+    }
+</style>
+<table class="table">
+    <tr>
+        <th>
+            STT
+        </th>
+        <th>
+            Họ Tên
+        </th>
+        <th>
+            SĐT
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            Địa Chỉ
+        </th>
+        <th>
+            Ảnh
+        </th>
+    </tr>
+    @{
+        var c = 0;
+        foreach (var item in Model)
+        {
+            c++;
+            <tr>
+
+                <td width="20px">
+                    @c
+                </td>
+                <td width="150px">
+                    @Html.DisplayFor(modelItem => item.tenKhachHang)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.soDienThoai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.diaChi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.hinhAnh)
+                </td>
+                <td>
+
+                    <a href="@Url.Action("Details", "ThongTinKhachHangs", new { id = item.maKhachHang })"><i class="mdi mdi-open-in-new"></i></a>
+                    <a href="@Url.Action("Delete", "ThongTinKhachHangs", new { id = item.maKhachHang })"><i class="mdi mdi-delete-outline"></i></a>
+                </td>
+            </tr>
+        }
+    }
+
+
+</table>

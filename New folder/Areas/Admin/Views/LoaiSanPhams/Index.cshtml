@@ -1,0 +1,49 @@
+﻿@model IEnumerable<theCoffeeHouse.Models.LoaiSanPham>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+
+<style>
+    table {
+        text-align: center;
+    }
+
+        table a {
+            font-size: 20px;
+        }
+</style>
+<h2>Loại Sản Phẩm</h2>
+
+<p>
+    @Html.ActionLink("Thêm Mới", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Tên Loại
+        </th>
+        <th>
+            Giới Thiệu
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.loaiSanPham1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.gioiThieu)
+        </td>
+        <td>
+            <a href="@Url.Action("Edit", "LoaiSanPhams", new { id = item.maLoai })"><i class="mdi mdi-wrench-outline"></i></a>
+            <a href="@Url.Action("Details", "LoaiSanPhams", new { id = item.maLoai })"><i class="mdi mdi-open-in-new"></i></a>
+            <a href="@Url.Action("Delete", "LoaiSanPhams", new { id = item.maLoai })"><i class="mdi mdi-delete-outline"></i></a>
+        </td>
+    </tr>
+}
+
+</table>

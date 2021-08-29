@@ -1,0 +1,150 @@
+﻿@model List<theCoffeeHouse.Models.SanPham>
+@{
+    ViewBag.Title = "ByPrice";
+    Layout = "~/Views/Shared/MainLayout.cshtml";
+}
+
+<style>
+
+    .main-product {
+        display: flex;
+        background-color: rgb(241, 241, 241);
+    }
+
+        .main-product .nav-main {
+            margin-top: 251px;
+            margin-left: 10px;
+            margin-right:10px
+        }
+
+        .main-product .nav-tabs {
+            text-align: center;
+            list-style-type: none;
+            width: 180px;
+            border: none;
+            display: block;
+            margin-left: 0px;
+            position: sticky;
+            top: 200px;
+        }
+
+            .main-product .nav-tabs .nav-item {
+                margin-bottom: -1px;
+                padding-bottom:10px;
+            }
+            .main-product .nav-tabs .nav-item .head{
+                font-size:larger;
+            }
+
+</style>
+<img src="~/images/tin7.jpg" style="width: 100%; height: 300px;" />
+<div class="main-product">
+    <div class="nav-main">
+        <!-- Tab Nav -->
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <div class="nav-item" style="margin-bottom: -1px;">
+                <p class="head"><span><i class="fa fa-filter"></i> </span>BỘ LỌC TÌM KIẾM</p>
+                <p>Khoảng Giá</p>
+                @using (Html.BeginForm("ByPrice", "Search", FormMethod.Post))
+                {
+                    <input type="text"  value="@ViewBag.Name" style="display:none" name="search" />
+                    <input min="0" type="number" placeholder="Từ" name="from"/>
+                    <div style="height:20px"></div>
+                    <input min="0" type="number" placeholder="Đến"  name="to"/>
+                    <input type="submit" value="Áp Dụng" style="width:150px;height:40px; background-color:#F7941D; color:white;margin-top:20px"/>
+
+                }
+
+            </div>
+        </ul>
+        <!--/ End Tab Nav -->
+    </div>
+    <div class="product-area section">
+        <div class="container">
+            @{
+                if (ViewBag.Name != null)
+                {
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="section-title">
+                                <h2>Kết Quả Tìm Kiếm Sản Phẩm: <span style="color:#F7941D">@ViewBag.Name</span></h2>
+                            </div>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="section-title">
+                                <h2>Sản Phẩm từ <span style="color:#F7941D">@ViewBag.From Đ</span> đến <span style="color:#F7941D">@ViewBag.To Đ</span> :</h2>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="product-info">
+
+                        <div class="tab-content" id="myTabContent">
+                            <!-- Start Single Tab -->
+                            <div class="tab-pane fade show active" id="man" role="tabpanel">
+                                <div class="tab-single">
+                                    <div class="row">
+                                        @foreach (var item in Model)
+                                        {
+                                            <div class="col-xl-3 col-lg-4 col-md-4 col-12">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <a href="@Url.Action("Detail", "Product", new { id = item.maSanPham})">
+                                                            <img class="default-img"
+                                                                 src="~/images/@item.hinhAnh" alt="">
+                                                        </a>
+                                                        <div class="button-head">
+                                                            <div class="product-action">
+                                                                <a title="Compare" href="@Url.Action("QuickAddItem", "Cart", new { productId = item.maSanPham , quantity = 1 })">
+                                                                    <i class="fa fa-shopping-cart"></i><span>
+                                                                        Thêm Vào Giỏ
+                                                                    </span>
+                                                                </a>
+                                                                <a title="Wishlist" href="#">
+                                                                    <i class="fa fa-heart"></i><span>
+                                                                        Yêu Thích
+                                                                    </span>
+                                                                </a>
+                                                            </div>
+                                                            <div class="product-action-2">
+                                                                <a title="Add to cart" href="@Url.Action("AddItem", "Cart", new { productId = item.maSanPham , quantity = 1 })">MUA NGAY</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-content">
+                                                        <h3><a href="product-details.html">@item.tenSanPham</a></h3>
+                                                        <div class="product-price">
+                                                            <span>@item.donGia</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        }
+
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+

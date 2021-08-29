@@ -1,0 +1,56 @@
+﻿@model IEnumerable<theCoffeeHouse.Models.TinTuc>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+<style>
+
+    table {
+        text-align: center;
+    }
+</style>
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th width="420px">
+            Tiêu Đề
+        </th>
+
+        <th>
+            Hình Ảnh
+        </th>
+        <th>
+            Ngày Đăng
+        </th>
+        <th>Chức Năng</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.tieuDe)
+        </td>
+
+        <td>
+            @{
+                String ImagePath = "~/images/" + item.hinhAnh;
+            }
+            <img src="@Url.Content(ImagePath)" width="250" height="120" class="img-thumbnail" />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ngayDang)
+        </td>
+        <td>
+            <a href="@Url.Action("Edit", "LoaiSanPhams", new { id = item.maTinTuc })"><i class="mdi mdi-wrench-outline"></i></a>
+            <a href="@Url.Action("Details", "LoaiSanPhams", new { id = item.maTinTuc })"><i class="mdi mdi-open-in-new"></i></a>
+            <a href="@Url.Action("Delete", "LoaiSanPhams", new { id = item.maTinTuc })"><i class="mdi mdi-delete-outline"></i></a>
+        </td>
+    </tr>
+}
+
+</table>

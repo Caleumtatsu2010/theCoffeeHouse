@@ -1,0 +1,59 @@
+﻿@model IEnumerable<theCoffeeHouse.Models.TaiKhoan>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Index</h2>
+<style>
+
+    table {
+        text-align: center;
+    }
+</style>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            STT
+        </th>
+        <th>
+            Tên Đăng Nhập
+        </th>
+        <th>
+            Loại
+        </th>
+        <th>
+            Chức Năng
+        </th>
+    </tr>
+
+    @{
+        var c = 0;
+        foreach (var item in Model)
+        {
+            c++;
+ <tr>
+    <td>
+        @c
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.tenDangNhap)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.loai)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.tenDangNhap }) |
+        @Html.ActionLink("Details", "Details", new { id = item.tenDangNhap }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.tenDangNhap })
+    </td>
+</tr>
+}
+    }
+
+
+</table>

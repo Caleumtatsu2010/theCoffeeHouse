@@ -1,0 +1,92 @@
+﻿@model IEnumerable<theCoffeeHouse.Models.SanPham>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+<style>
+
+    table {
+        text-align: center;
+    }
+
+</style>
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            STT
+        </th>
+        <th style="width:70px">
+            Mã SP
+        </th>
+        <th style="width:70px;">
+            Tên Sản Phẩm
+        </th>
+        <th style="width:200px">
+            Mô Tả
+        </th>
+
+        <th style="width:100px">
+            Đơn Giá
+        </th>
+        <th>
+            Hình Ảnh
+        </th>
+        <th style="width:60px">
+            Loại Sản Phẩm
+        </th>
+        <th>
+            Chức Năng
+        </th>
+    </tr>
+    @{
+        var c = 0;
+        foreach (var item in Model)
+        {
+            c++;
+            <tr>
+                <td>
+                    @c
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.maSanPham)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tenSanPham)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.moTa)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.donGia)
+                </td>
+
+                <td>
+                    @{
+                        String ImagePath = "~/images/" + item.hinhAnh;
+                    }
+                    <img src="@Url.Content(ImagePath)" width="150" class="img-thumbnail" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LoaiSanPham.loaiSanPham1)
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "SanPhams", new { id = item.maSanPham })"><i class="mdi mdi-wrench-outline"></i></a>
+                    <a href="@Url.Action("Details", "SanPhams", new { id = item.maSanPham })"><i class="mdi mdi-open-in-new"></i></a>
+                    <a href="@Url.Action("Delete", "SanPhams", new { id = item.maSanPham })"><i class="mdi mdi-delete-outline"></i></a>
+                </td>
+            </tr>
+        }
+
+    }
+
+
+</table>

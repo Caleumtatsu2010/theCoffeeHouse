@@ -1,0 +1,107 @@
+﻿@model List<theCoffeeHouse.Models.HoaDon>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/MainLayout.cshtml";
+}
+
+
+<style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th {
+        text-align: center;
+        padding: 8px;
+        background-color: #F7941D;
+        color: aliceblue;
+    }
+
+    td {
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 8px;
+        height: 200px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+
+    .text {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        /* number of lines to show */
+        -webkit-box-orient: vertical;
+        width: 200px;
+        padding-left: 80px;
+        padding-top: 87px;
+    }
+
+    .abort {
+        background-color: #F7941D;
+        color: white;
+        padding: 20px;
+        border-radius: 5px;
+    }
+</style>
+
+@{
+    if (Model != null)
+    {
+
+            <div class="main-order" style="width: 100%; padding-right:80px ; height:2000px; margin-top:10px">
+                <div class="container" style="width:1060px; float: right; ">
+                    <form style="width:1020px; padding:10px">
+                        <div class="search-cart" style="display: flex;">
+                            <button type="submit" class="searchButton" style="background-color:rgb(255, 255, 255);">
+                                <i class="fa fa-search"
+                                   style="width:30px;height: 30px; font-size: 20px;padding-top: 4px;"></i>
+                            </button>
+                            <input class="search-cart-input" name="search" type="text" placeholder="Tìm Kiếm Sản Phẩm"
+                                   style="width: 1000px;">
+                        </div>
+                    </form>
+
+                    <table >
+                        <tr>
+                            <th>Sản Phẩm</th>
+                            <th>Thời Gian</th>
+                            <th>Số Lượng</th>
+                            <th>Thành Tiền</th>
+                            <th>Hình thức</th>
+                            <th>Tình Trạng</th>
+                        </tr>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+                            <td><img src="~/images/americano.jpg" width="100" height="200"></td>
+                            <td class="text">@item.ngayBan</td>
+                            <td>@item.tongSoLuong</td>
+                            <td>@item.thanhTien</td>
+                            <td>@item.hinhThucThanhToan</td>
+
+                            <td class="action" data-title="Remove">
+                                <a href="@Url.Action("DeleteOrder", "Order", new {mahd = item.maHoaDon })">
+                                    <i class="fa fa-remove"></i>Hủy
+                                    Đơn
+                                </a><br><br><br><br>
+                                <a class="abort" href="#">
+                                    Mua Lại
+                                </a>
+                            </td>
+                        </tr>
+                        }
+                    </table>
+
+                </div>
+
+            </div>
+
+    }
+    
+}

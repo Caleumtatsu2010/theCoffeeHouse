@@ -1,0 +1,241 @@
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\theCoffeeHouse.dll.config
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\theCoffeeHouse.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\theCoffeeHouse.pdb
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csc.exe
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csc.exe.config
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csc.rsp
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csi.exe
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csi.exe.config
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csi.rsp
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.Managed.Core.targets
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.AppContext.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Collections.Immutable.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Console.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.Compression.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.FileSystem.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.Pipes.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Reflection.Metadata.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.AccessControl.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Claims.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Principal.Windows.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.ValueTuple.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Xml.XmlDocument.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Xml.XPath.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\vbc.exe
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\vbc.exe.config
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\vbc.rsp
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\VBCSCompiler.exe
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\roslyn\VBCSCompiler.exe.config
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\Antlr3.Runtime.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\Microsoft.Web.Infrastructure.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\Newtonsoft.Json.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Helpers.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Mvc.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Optimization.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Razor.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.Deployment.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.Razor.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\WebGrease.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Helpers.xml
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Mvc.xml
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Optimization.xml
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Razor.xml
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.xml
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.Deployment.xml
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.Razor.xml
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\Newtonsoft.Json.xml
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\Antlr3.Runtime.pdb
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.csprojAssemblyReference.cache
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.csproj.CoreCompileInputs.cache
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.csproj.CopyComplete
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.dll
+D:\stuff\C#\Asp.net\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.pdb
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\theCoffeeHouse.dll.config
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\theCoffeeHouse.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\theCoffeeHouse.pdb
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csc.exe
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csc.exe.config
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csc.rsp
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csi.exe
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csi.exe.config
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\csi.rsp
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.Managed.Core.targets
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.AppContext.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Collections.Immutable.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Console.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.Compression.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.FileSystem.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.IO.Pipes.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Reflection.Metadata.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.AccessControl.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Claims.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Security.Principal.Windows.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.ValueTuple.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Xml.XmlDocument.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Xml.XPath.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\vbc.exe
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\vbc.exe.config
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\vbc.rsp
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\VBCSCompiler.exe
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\roslyn\VBCSCompiler.exe.config
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\Antlr3.Runtime.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\Microsoft.Web.Infrastructure.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\Newtonsoft.Json.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Helpers.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Mvc.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Optimization.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Razor.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.Deployment.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.Razor.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\WebGrease.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Helpers.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Mvc.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Optimization.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.Razor.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.Deployment.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\System.Web.WebPages.Razor.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\Newtonsoft.Json.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\Antlr3.Runtime.pdb
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.csproj.CoreCompileInputs.cache
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.csproj.CopyComplete
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.pdb
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\EntityFramework.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\EntityFramework.SqlServer.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\EntityFramework.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\EntityFramework.SqlServer.xml
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\PagedList.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\PagedList.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\theCoffeeHouse.dll.config
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\theCoffeeHouse.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\theCoffeeHouse.pdb
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\csc.exe
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\csc.exe.config
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\csc.rsp
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\csi.exe
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\csi.exe.config
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\csi.rsp
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Console.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\vbc.exe
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\vbc.exe.config
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\vbc.rsp
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\Antlr3.Runtime.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\EntityFramework.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\Newtonsoft.Json.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\PagedList.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.Helpers.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.Mvc.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.Optimization.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.Razor.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.WebPages.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\WebGrease.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\EntityFramework.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\PagedList.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.Helpers.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.Mvc.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.Optimization.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.Razor.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.WebPages.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\Newtonsoft.Json.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\obj\Debug\theCoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\obj\Debug\theCoffeeHouse.csproj.CopyComplete
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\obj\Debug\theCoffeeHouse.dll
+C:\Users\admin\Videos\Program Files\Downloads\theCoffeeHouse-main\theCoffeeHouse\obj\Debug\theCoffeeHouse.pdb
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\obj\Debug\theCoffeeHouse.csprojAssemblyReference.cache
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\JetBrains.Annotations.dll
+D:\stuff\C#\theCoffeeHouse\theCoffeeHouse\bin\JetBrains.Annotations.xml
